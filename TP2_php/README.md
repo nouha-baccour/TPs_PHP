@@ -1,5 +1,3 @@
-# TP1 : Gestion de Magasin (Authentification)
-
 ## 📂 Contenu du dossier
 * `login.php` : La page d'accès (Point d'entrée).
 * `magasin.sql` : La base de données.
@@ -34,4 +32,5 @@ Pour tester la connexion, vous pouvez utiliser les utilisateurs présents dans l
 
 ---
 **Note technique :**
+
 Vérifiez que les paramètres de connexion à la BDD dans votre code PHP (souvent dans `connexion.php` ou en haut de page) correspondent à votre configuration locale (généralement `root` sans mot de passe sur WAMP).
